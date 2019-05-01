@@ -4,8 +4,6 @@ Quantification of high-dimensional configuration of ligand binding interactions 
  
 **Hakim Mohd Azhan.** *Department of Biochemistry and Molecular Biology, Michigan State University. East Lansing, MI. 48823.*
 
-**Brian Nohomovich.** *Department of Biochemistry and Molecular Biology, Michigan State University. East Lansing, MI. 48823.*
-
 #### Summary of Repository and Directory Structure:  
  
 * `doc` - Holds final project report in the form of a Jupyter Notebook with the analysis pipeline inlined and the writeup in markdown cells.
